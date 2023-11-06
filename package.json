@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Infinity-Vyshivanka/",
+    "build": "vite build --base=/html-css-98_Turg0n/",
     "preview": "vite preview"
   },
   "devDependencies": {
